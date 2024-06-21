@@ -25,7 +25,7 @@
 [Dataset](https://github.com/NndWicaksono/BANGKIT-Capstone-Project)
 
 ### Link App Demo :
-[Demo App](...)
+[Demo App](https://drive.google.com/file/d/18rITOYTWt10JhNX5X8RGFLcaj_NixwI0/view?usp=sharing)
 
 ### Link Download APK ChiliDoc:<br>
 [ChiliDoc APK](https://drive.google.com/file/d/1CTjmStL1ccE0oVn8AmlUNQtCi6GyLks2/view?usp=sharing)
